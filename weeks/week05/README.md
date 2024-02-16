@@ -231,9 +231,4 @@ We create dynamic web content and applications through the use of scripting:
 
 * [`<script>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script) - used to embed executable code in a document, typically JavaScript.
 
-## Examples
 
-* [Lists: ordered and unordered](list-example.html)
-* [Anchors: creating hyperlinks](anchor-example.html)
-* [Images: using img](img-example.html)
-* [Text: text sections](text-example.html)
